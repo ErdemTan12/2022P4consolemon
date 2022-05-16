@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Csharp2Opdrachten
+namespace ConsoleMon
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("poopwrld!");
+            Console.WriteLine("poopwrld");
         }
     }
 }
